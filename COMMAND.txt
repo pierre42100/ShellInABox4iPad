@@ -1,0 +1,1 @@
+shellinaboxd --port=4201 --disable-ssl --static-file=ShellInABox.js:/var/www/admin/ssh_remote_term/ShellInABox.js --static-file=styles.css:/var/www/admin/ssh_remote_term/styles.css -b
